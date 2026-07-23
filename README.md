@@ -42,6 +42,6 @@ Successfully completed Day 7 practice by learning prompt engineering concepts, e
 
 ---
 
-**Author:** Your Name  
+**Author:** daneshwari 
 **Day:** 7  
 **Topic:** Prompt Engineering & Generative AI
